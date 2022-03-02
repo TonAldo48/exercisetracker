@@ -1,6 +1,6 @@
 # EXERCISE TRACKER
 # Introduction
-This project was made as a requirement to complete the FreeCodeCamp Back End and APIs certifications
+This is an exercise tracker application created for Free Code Camp's 5th JavaScript certificate Back End Development and APIs. There are two forms that interact with a User and Exercise model created through MongoDB Atlas.
 ## Technologies used
 
  - JavaScript
